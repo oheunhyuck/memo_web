@@ -16,30 +16,6 @@ Flask + MongoDB로 만든 간단한 메모장 웹 애플리케이션입니다.
 - **Database**: MongoDB (pymongo)
 - **Frontend**: HTML, Bootstrap 5, jQuery
 
-## 실행 방법
-
-### 1. 사전 준비
-
-- Python 3.x
-- MongoDB가 로컬(localhost:27017)에서 실행 중이어야 합니다.
-
-### 2. 설치
-
-```bash
-git clone https://github.com/<your-username>/jg.git
-cd jg
-python -m venv .venv
-.venv\Scripts\activate        # Windows
-pip install -r requirements.txt
-```
-
-### 3. 실행
-
-```bash
-python app.py
-```
-
-브라우저에서 `http://localhost:5000` 접속
 
 ## API
 
