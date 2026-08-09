@@ -13,7 +13,7 @@ Flask + MongoDB로 만든 간단한 메모장 웹 애플리케이션입니다.
 ## 기술 스택
 
 - **Backend**: Python, Flask
-- **Database**: MongoDB (pymongo)
+- **Database**: MongoDB 
 - **Frontend**: HTML, Bootstrap 5, jQuery
 
 
